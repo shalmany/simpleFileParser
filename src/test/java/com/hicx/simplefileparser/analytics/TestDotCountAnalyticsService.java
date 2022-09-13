@@ -4,6 +4,7 @@ import com.hicx.simplefileparser.type.AnalyticsResultType;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+
 public class TestDotCountAnalyticsService {
     @Test
     public void Given_TextWithNull_When_Parse_Then_return0() {
