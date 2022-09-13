@@ -1,0 +1,13 @@
+com\hicx\simplefileparser\parser\FileParserContext.class
+com\hicx\simplefileparser\type\AnalyticsResultType.class
+com\hicx\simplefileparser\parser\FileParserFactory.class
+com\hicx\simplefileparser\analytics\WordCountAnalyticsService.class
+com\hicx\simplefileparser\parser\FileParserService.class
+com\hicx\simplefileparser\analytics\CompositeAnalyticsService.class
+com\hicx\simplefileparser\SimpleFileParserApplication.class
+com\hicx\simplefileparser\analytics\DotCountAnalyticsService.class
+com\hicx\simplefileparser\analytics\MostUsedAnalyticsService.class
+com\hicx\simplefileparser\monitoring\MonitoringService.class
+com\hicx\simplefileparser\parallel\consumer\FileConsumer.class
+com\hicx\simplefileparser\analytics\AnalyticsService.class
+com\hicx\simplefileparser\parser\PlainTextFileParserService.class
